@@ -9,6 +9,6 @@
   "customFieldValues": {
   },
   "processingCommand": {
-    "script": "echo 1"
+    "script": "echo 1\necho 1"
   }
 }
